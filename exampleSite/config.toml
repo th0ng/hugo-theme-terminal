@@ -23,7 +23,7 @@ pagination.pagerSize = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "~/th0ng/blogs"
       logoHomeLink = "/"
 
     [languages.en.menu]
